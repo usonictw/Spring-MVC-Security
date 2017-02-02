@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="module4_BookManager@localhost" uuid="764feada-10d3-4008-b0e2-52cbce5d6f52">
+      <database-info product="PostgreSQL" version="9.5.5" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>usonic</user-name>
+      <resolve-scope>module4_BookManager:public,usonic</resolve-scope>
+    </data-source>
+  </component>
+</project>
